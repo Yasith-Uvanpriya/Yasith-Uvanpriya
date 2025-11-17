@@ -53,13 +53,6 @@
 
 ---
 
-## 🐍 Contribution Snake  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Yasith-Uvanpriya/Yasith-Uvanpriya/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 ## 🔥 Activity & Streak  
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Yasith-Uvanpriya&theme=tokyonight&hide_border=false" />
